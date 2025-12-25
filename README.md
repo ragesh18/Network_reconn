@@ -59,4 +59,4 @@ Local Service Enumeration
 Run the script directly:
 
 ```bash
-python3 network_recon.py
+python3 network_reco.py
